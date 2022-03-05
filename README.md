@@ -2,7 +2,6 @@
 - 👀 I’m interested in Android
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on Android open source projects
-- 📫 How to reach me ...
 
 <!---
 confusedBoy/confusedBoy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
